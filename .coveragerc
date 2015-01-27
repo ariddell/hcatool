@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = hcatool
+omit = hcatool/tests/*,hcatool/openstack/*
+
+[report]
+ignore-errors = True
