@@ -1,0 +1,21 @@
+stem = ../lda/tests/reuters
+N = 84010
+NT = 84010
+W = 4258
+D = 395
+TRAIN = 395
+TEST = 0
+T = 20
+ITER = 100
+PYbeta  = 0
+#  betatot is the total over W=4258 words
+#  betatot was sampled every 4 major cycles
+betatot = 327.375477
+PYalpha  = 0
+#  alphatot is the total over topics
+#  alphatot was sampled every 4 major cycles
+alphatot = 1.487369
+factor = 1.487369
+probs =  0.062718 0.029390 0.061147 0.032711 0.041709 0.060778 0.073443 0.048554 0.043662 0.067730 0.051970 0.054565 0.027628 0.034460 0.077074 0.029711 0.038781 0.043019 0.031699 0.089251
+# empty=0, exp.ent=18.850931
+logperptrain = 11.418361

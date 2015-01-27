@@ -3,5 +3,5 @@
 # process, which may cause wedges in the gate later.
 
 pbr>=0.10,<1.0
-numpy=>1.9.1,<2.0
+numpy>=1.9.1,<2.0
 pandas>=0.15.1,<1.0
